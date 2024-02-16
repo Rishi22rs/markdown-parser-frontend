@@ -2,6 +2,12 @@
 
 This is a simple Markdown parser front-end application built with React.js.
 
+## Install
+
+    $ git clone https://github.com/Rishi22rs/markdown-parser-frontend.git
+    $ cd markdown-editor-frontend
+    $ npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
