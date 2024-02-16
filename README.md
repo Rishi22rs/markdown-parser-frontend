@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Markdown Parser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Markdown parser front-end application built with React.js.
 
 ## Available Scripts
 
